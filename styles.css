@@ -1,0 +1,25 @@
+body{
+  overflow-x: hidden;
+}
+#about{
+    background-image: linear-gradient( rgba(8, 94, 27, 1), rgb(6, 145, 36));
+    padding-top: 20px;
+    padding-bottom: 30px;
+  }
+  .top_div {
+    background-color: red;
+    height: 650px;
+  }
+  .love_count {
+    font-size: 75px;
+    color: rgba(251, 251, 251, 0.15);
+    margin-bottom: 25px;
+    font-weight: 300;
+  }
+  label{
+   
+   font-weight: 700;
+  }
+  .reen{
+    color:rgb(25, 146, 51) ;
+  }

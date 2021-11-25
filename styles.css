@@ -23,3 +23,8 @@ body{
   .reen{
     color:rgb(25, 146, 51) ;
   }
+  @media screen and (max-width: 1032px) {
+    body {
+      overflow-x: hidden;
+    }
+  }
